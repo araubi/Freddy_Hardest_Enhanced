@@ -1,0 +1,11 @@
+# lo que sale de tus cintas y lo que genera la compilación / extracted originals and build output
+originales/
+FreddyHardest_Enhanced.rom
+src/*.rom
+src/*.bin
+src/*.sym
+src/*.inc
+src/__pycache__/
+src/graficos/__pycache__/
+__pycache__/
+src/graficos/*_cache.json
